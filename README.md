@@ -3,14 +3,14 @@
 ## *SCREENSHOT*
 <div align="center">
     <img
-        src="https://github.com/AyckinnLisa/PYTHON/blob/main/Games/guess_my_number/screenshot.png"
+        src="https://github.com/AyckinnLisa/guess_my_number/blob/main/screenshot.png"
         alt="DEMO"
         style="width:40%">
 </div>
 
 ---
 
-####*Rules :* 
+#### *RULES :* 
 - AI choose a number, player have to guess it.
 - Player can choose the max number for the AI and save his score
 - The score file saves the number of attempts and the time it takes the player to guess the AI's number.
